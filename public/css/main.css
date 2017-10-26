@@ -1,0 +1,9 @@
+body {
+    background: #a1a1a1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Inconsolata', monospace;
+}
+  
